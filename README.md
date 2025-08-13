@@ -21,7 +21,7 @@
 
  <div align="center">
  <img src="https://nirzak-streak-stats.vercel.app/?user=chithraksha16&theme=dark&hide_border=true" height="150" alt="languages graph"  />
- <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chithraksha16&layout=compact&theme=radical" alt=chithraksha16 />
+ <img  height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chithraksha16&layout=compact&theme=radical" alt=chithraksha16 />
  </div>
 
 
