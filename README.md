@@ -24,7 +24,7 @@
  <img  height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chithraksha16&layout=compact&theme=radical" alt=chithraksha16 />
  </div>
 
- <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chithraksha16&theme=radical" height="180em" />
+<div align="center"> <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chithraksha16&theme=radical" height="180em" /> </div>
 
 
 <h2 align="left">⚡Activity Graph:</h2>
