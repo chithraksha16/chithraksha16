@@ -4,7 +4,7 @@
 
 - 🔭Working on [Tracktual](https://github.com/chithraksha16/Tracktual)
 
-- 🌱 I’m currently learning **DevOps Basics**
+- 🌱 I’m currently learning **DevOps Basics and Nextjs**
 
 - 📫 How to reach me **chithrakshakharvi@gmail.com**
 
