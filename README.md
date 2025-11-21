@@ -4,7 +4,7 @@
 
 - 🔭Working on [Tracktual](https://github.com/chithraksha16/Tracktual)
 
-- 🌱 I’m currently learning ** Nextjs and Blockchain**
+- 🌱 I’m currently learning ** Nextjs and Blockchain basics**
 
 - 📫 How to reach me **chithrakshakharvi@gmail.com**
 
