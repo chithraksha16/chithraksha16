@@ -4,7 +4,7 @@
 
 - 🔭Working on [Tracktual](https://github.com/chithraksha16/Tracktual)
 
-- 🌱 I’m currently learning ** Next.js and devops and Redux and figma**
+- 🌱 I’m currently learning ** Next.js,devops,Redux and figma**
 
 - 📫 How to reach me **chithrakshakharvi@gmail.com**
 
