@@ -4,7 +4,7 @@
 
 - 🔭Working on [Tracktual](https://github.com/chithraksha16/Tracktual)
 
-- 🌱 I’m currently learning ** Next.js,Docker and figma, SEO, Supabase and Postgresql**
+- 🌱 I’m currently learning ** Next.js,Docker and figma, SEO, Supabase and Postgresql and sqlite**
 
 - 📫 How to reach me **chithrakshakharvi@gmail.com**
 
